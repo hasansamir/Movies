@@ -19,7 +19,7 @@ namespace MoviesProjectMVC.Models
         {
             this.movie = new HashSet<movie>();
         }
-    
+    //test
         public int dirId { get; set; }
         public string dirName { get; set; }
         public int movieId { get; set; }
